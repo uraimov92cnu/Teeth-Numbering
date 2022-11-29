@@ -13,6 +13,14 @@
 ###### Each image has a size of 448x448 pixels. Annotation files were created by labeling the teeth in each image using the [Labelme](https://github.com/wkentaro/labelme) annotation tool.
 ###### Additionally, each image in the training dataset contains its corresponding mask image for teeth numbering. The mask is given as a PNG image where each label from 32 classes of labels is represented as positive integers with 0 as a background. A tooth image and corresponding mask from the training dataset is shown in Figure 1. 
 
- ![Figure 1. Creating mask](creating_mask.png)
+ ![](creating_mask.png)
+ ###### Figure1. Creating mask image
 
  
+##### Authors
+- Jamoliddin Uraimov
+
+##### For Contact.
+
+- Twitter- [Jamoliddin Uraimov](https://twitter.com/Uraimov92cnu)
+- LinkedIn- [Jamoliddin Uraimov](https://www.linkedin.com/in/jamoliddin-uraimov-0985b023b/)
