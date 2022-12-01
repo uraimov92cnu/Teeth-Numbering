@@ -7,7 +7,7 @@
 * Detection Results
 
 #### Introduction
-###### Currently, various projects are being created in the field of medicine with the help of semantic segmentation model. The tooth is the most painful organ of a person. Some of the AI models designed to predict dental diseases are considered to predict the number of teeth. For this reason, we created an AI model that predicts the number of teeth using a semantic segmentation model.This project uses the PyTorch framework. And the codes are written 100% in Jupyter Notebook.
+###### Currently, various projects are being created in the field of medicine with the help of semantic segmentation model. The tooth is the most painful organ of a person. Some of the AI models designed to predict dental diseases are considered to predict the number of teeth. Therefore, we created an AI model that predicts the number of teeth using a semantic segmentation model.This project uses the PyTorch framework. And the codes are written 100% in Jupyter Notebook.
 #### Dataset
 ###### The training data for teeth numbering contains 14936 different teeth images in RGB format. Together with our team, the necessary tooth images were collected for the teeth numbering model. We organized various events with our team and attracted many people and had the opportunity to collect teeth images from them. 12 teeth images were taken from each participant.
 ###### Each image resized as 448x448 pixels. Annotation files were created by labeling the teeth in each image using the [Labelme](https://github.com/wkentaro/labelme) annotation tool.
