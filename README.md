@@ -17,7 +17,7 @@
  ###### Figure1. Orginal image and mask image
 
  
-##### Authors
+##### Author
 - Jamoliddin Uraimov
 
 ##### For Contact.
