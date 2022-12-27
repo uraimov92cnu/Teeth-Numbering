@@ -15,6 +15,11 @@
 
  ![](creating_mask.png)
  ###### Figure1. Orginal image and mask image
+ 
+ 
+ ###### We can also infer the results of our model with images from the optional Google search platform.
+ ![] (Best result with Google image.jpg )
+ ###### Figure 2. Model Inference
 
  
 ##### Author
