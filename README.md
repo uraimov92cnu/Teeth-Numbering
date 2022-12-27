@@ -18,7 +18,7 @@
  
  
  ###### We can also infer the results of our model with images from the optional Google search platform.
- ![] (Best result with Google image.jpg )
+ ![image](https://github.com/uraimov92cnu/Teeth-Numbering/blob/main/Best%20result%20with%20Google%20image.jpg )
  ###### Figure 2. Model Inference
 
  
